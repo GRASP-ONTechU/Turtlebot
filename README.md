@@ -2,7 +2,7 @@
 Lab Mobile Robot Learning Project
 
 
-## Instructions:
+## Visual Servoing:
 
 ### Required libaries:
 	- math
@@ -18,8 +18,9 @@ ROS download and instruction for Kobuki can be found at => wiki.ros.org/Robots/T
 
 ---------------
 Run the follow commads in serperate terminal:
-
+```
 	roslaunch turtlebot_bringup minimal.launch
+```
 
 	roslaunch turtlebot_navigation amcl_demo.launch map_file:=/home/turtlebot.......yaml (map_file:=ymal file location)
 
