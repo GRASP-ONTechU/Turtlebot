@@ -38,6 +38,11 @@ roslaunch turtlebot_teleop xbox360_tele.launch (optional -allows you to use the 
 
 <span style="color:blue">some *blue* text</span>.
 
+<font color="red">This is some text!</font>
+
+These are <b style='color:red'>red words</b>.
+
+
 when the purple dot appears at the top right corner of the screen, move hand infront of camera with # of fingers you want to send
 when the purple dot dissapears, close or remove hand away from the screen 
 (refer to sample videos)
