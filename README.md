@@ -19,17 +19,20 @@ ROS download and instruction for Kobuki can be found at => wiki.ros.org/Robots/T
 ---------------
 Run the follow commads in serperate terminal:
 ```
-	roslaunch turtlebot_bringup minimal.launch
+roslaunch turtlebot_bringup minimal.launch
 ```
-
-	roslaunch turtlebot_navigation amcl_demo.launch map_file:=/home/turtlebot.......yaml (map_file:=ymal file location)
-
-	python /home/turtlebot/Desktop/motion.py
-
-
-	roslaunch turtlebot_rvis_launchers view_navigation.launch --screen (optional -brings up the navigation GUI)
-
-	roslaunch turtlebot_teleop xbox360_tele.launch (optional -allows you to use the xbox controller)
+```
+roslaunch turtlebot_navigation amcl_demo.launch map_file:=/home/turtlebot.......yaml (map_file:=ymal file location)
+```
+```
+python /home/turtlebot/Desktop/motion.py
+```	
+```
+roslaunch turtlebot_rvis_launchers view_navigation.launch --screen (optional -brings up the navigation GUI)
+```	
+```
+roslaunch turtlebot_teleop xbox360_tele.launch (optional -allows you to use the xbox controller)
+```	
 
 ---------------
 ### Note: When running the program:
