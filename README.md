@@ -1,17 +1,14 @@
 # Turtlebot
 Lab Mobile Robot Learning Project
 
-
-
-
 ### Required libaries:
-	- math
-	- opencv (version 2.4)
-	- rospy
-	- actionlib
-	- move_base_msgs.msg => MoveBaseAction, MoveBaseGoal
-	- geometry_msgs.msg => Twist, Pose, Point, Quaternion
-	- actionlib_msgs.msg
+- math
+- opencv (version 2.4)
+- rospy
+- actionlib
+- move_base_msgs.msg => MoveBaseAction, MoveBaseGoal
+- geometry_msgs.msg => Twist, Pose, Point, Quaternion
+- actionlib_msgs.msg
 
 Opencv download and instructions can be found at => http://opencv.org/downloads.html
 ROS download and instruction for Kobuki can be found at => wiki.ros.org/Robots/TurtleBot
