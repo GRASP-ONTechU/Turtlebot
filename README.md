@@ -33,15 +33,7 @@ roslaunch turtlebot_rvis_launchers view_navigation.launch --screen (optional -br
 ```
 roslaunch turtlebot_teleop xbox360_tele.launch (optional -allows you to use the xbox controller)
 ```	
-### **<font color='red'>Note</font>:** When running the program:
-
-
-<span style="color:blue">some *blue* text</span>.
-
-<font color="red">This is some text!</font>
-
-These are <b style='color:red'>red words</b>.
-
+### **Note:** When running the program:
 
 when the purple dot appears at the top right corner of the screen, move hand infront of camera with # of fingers you want to send
 when the purple dot dissapears, close or remove hand away from the screen 
@@ -52,7 +44,11 @@ Change "checkRate" variable to change the hand recognition speed
 
 ### Manipulator
 
-## SLAM
+
+
+## SLAM (Simultaneously Localication and Mapping)
+
+
 
 ## Visual Servoing
 
