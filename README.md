@@ -10,9 +10,9 @@ Lab Mobile Robot Learning Project
 * geometry_msgs.msg => Twist, Pose, Point, Quaternion
 * actionlib_msgs.msg
 
-Opencv download and instructions can be found at => http://opencv.org/downloads.html
+Opencv download and instructions can be found at http://opencv.org/downloads.html
 
-ROS download and instruction for Kobuki can be found at => wiki.ros.org/Robots/TurtleBot
+ROS download and instruction for Kobuki can be found at http://wiki.ros.org/Robots/TurtleBot
 
 ## Remote Control
 ### Mobile Base
