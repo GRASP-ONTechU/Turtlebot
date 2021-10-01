@@ -2,7 +2,7 @@
 Lab Mobile Robot Learning Project
 
 
-## Visual Servoing:
+
 
 ### Required libaries:
 	- math
@@ -15,6 +15,12 @@ Lab Mobile Robot Learning Project
 
 Opencv download and instructions can be found at => http://opencv.org/downloads.html
 ROS download and instruction for Kobuki can be found at => wiki.ros.org/Robots/TurtleBot
+
+## Remote Control
+
+## Visual Servoing
+
+## SLAM
 
 ---------------
 Run the follow commads in serperate terminal:
