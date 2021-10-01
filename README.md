@@ -2,13 +2,13 @@
 Lab Mobile Robot Learning Project
 
 ### Required libaries:
-- math
-- opencv (version 2.4)
-- rospy
-- actionlib
-- move_base_msgs.msg => MoveBaseAction, MoveBaseGoal
-- geometry_msgs.msg => Twist, Pose, Point, Quaternion
-- actionlib_msgs.msg
+* math
+* opencv (version 2.4)
+* rospy
+* actionlib
+* move_base_msgs.msg => MoveBaseAction, MoveBaseGoal
+* geometry_msgs.msg => Twist, Pose, Point, Quaternion
+* actionlib_msgs.msg
 
 Opencv download and instructions can be found at => http://opencv.org/downloads.html
 
@@ -33,7 +33,7 @@ roslaunch turtlebot_rvis_launchers view_navigation.launch --screen (optional -br
 ```
 roslaunch turtlebot_teleop xbox360_tele.launch (optional -allows you to use the xbox controller)
 ```	
-### Note: When running the program:
+### **<font color='red'>Note:</font>** When running the program:
 
 when the purple dot appears at the top right corner of the screen, move hand infront of camera with # of fingers you want to send
 when the purple dot dissapears, close or remove hand away from the screen 
