@@ -14,11 +14,7 @@ Opencv download and instructions can be found at => http://opencv.org/downloads.
 ROS download and instruction for Kobuki can be found at => wiki.ros.org/Robots/TurtleBot
 
 ## Remote Control
-
-## Visual Servoing
-
-## SLAM
-
+### Mobile Base
 ---------------
 Run the follow commads in serperate terminal:
 ```
@@ -36,8 +32,6 @@ roslaunch turtlebot_rvis_launchers view_navigation.launch --screen (optional -br
 ```
 roslaunch turtlebot_teleop xbox360_tele.launch (optional -allows you to use the xbox controller)
 ```	
-
----------------
 ### Note: When running the program:
 
 when the purple dot appears at the top right corner of the screen, move hand infront of camera with # of fingers you want to send
@@ -46,3 +40,10 @@ when the purple dot dissapears, close or remove hand away from the screen
 
 Change "refreshRate" variable to speed up or slow down the purple dot
 Change "checkRate" variable to change the hand recognition speed
+
+### Manipulator
+
+## SLAM
+
+## Visual Servoing
+
